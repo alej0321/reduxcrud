@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 8,
+      "nombre": "pollo asado frisby",
+      "precio": "10000"
+    },
+    {
+      "id": 9,
+      "nombre": "Pastas la muñeca 500 gr",
+      "precio": "3000"
+    },
+    {
+      "nombre": "frijol 1lb",
+      "precio": "2000",
+      "id": 11
+    },
+    {
+      "id": 12,
+      "nombre": "garbanzo 2lb",
+      "precio": "3000"
+    },
+    {
+      "nombre": "arroz florhuila 1lb",
+      "precio": "1500",
+      "id": 13
+    }
+  ]
+}
